@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: lxiange-com
     name: lxiange.com
-    url: 'https://lxiangee.com'
+    url: 'https://lxiange.com'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
